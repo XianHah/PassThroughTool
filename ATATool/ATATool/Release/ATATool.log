@@ -1,0 +1,9 @@
+﻿  ATAToolDlg.cpp
+f:\vsproject\atatool\atatool\header\icommchannel.h(43): warning C4091: “typedef ”: 没有声明变量时忽略“CHANNEL_TYPE”的左侧
+f:\vsproject\atatool\atatool\header\icommchannel.h(63): warning C4091: “typedef ”: 没有声明变量时忽略“CHANNEL_PROPERTIES”的左侧
+  正在生成代码
+  9 of 578 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ATATool.vcxproj -> F:\VSProject\ATATool\Release\ATATool.exe
